@@ -1,0 +1,5 @@
+include ox_ebaysdk_settingseditor/icons/*.png
+include ox_ebaysdk_settingseditor/templates/*.yaml
+include ox_ebaysdk_settingseditor/tests/*.py
+include ox_ebaysdk_settingseditor/screenshot.png
+include ox_ebaysdk_settingseditor/changelog.txt

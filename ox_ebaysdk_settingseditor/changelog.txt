@@ -1,0 +1,25 @@
+# changelog
+
+## 0.0.3
+
+2018-02-24
+
+### Added
+
+- `test` - test sample
+
+## 0.0.2
+
+2018-02-22
+
+### Added
+
+- `nothing` - error function
+
+## 0.0.1
+
+2018-02-16
+
+### Improved
+
+- Blablabla

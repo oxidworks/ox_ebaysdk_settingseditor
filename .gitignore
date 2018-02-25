@@ -1,0 +1,4 @@
+ox_ebaysdk_settingseditor.egg-info
+dist
+build
+*.pyc
